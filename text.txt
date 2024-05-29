@@ -1,8 +1,3 @@
 this is a line
 this is also a line
-<<<<<<< Updated upstream
-=======
-now this is a bug
-fix the bug before continue
->>>>>>> Stashed changes
-
+fine then
