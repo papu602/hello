@@ -1,0 +1,35 @@
+7dd6394 HEAD@{0}: reset: moving to 7dd6394
+83648b4 HEAD@{1}: commit: follow up one
+7dd6394 HEAD@{2}: pull: Merge made by the 'ort' strategy.
+7b32c69 HEAD@{3}: commit: lala
+727d5e5 HEAD@{4}: reset: moving to 727d5e5
+dab803a HEAD@{5}: commit: floppy
+352e069 HEAD@{6}: reset: moving to 352e069
+6ca0a94 HEAD@{7}: commit: previous
+53f174a HEAD@{8}: reset: moving to 53f174a
+02f4e36 HEAD@{9}: commit: new
+53f174a HEAD@{10}: commit: frog
+352e069 HEAD@{11}: commit: final
+727d5e5 HEAD@{12}: pull: Merge made by the 'ort' strategy.
+a7d38ac HEAD@{13}: commit: good
+fc93cb8 HEAD@{14}: reset: moving to fc93cb8
+e9a8d0c HEAD@{15}: commit: oops
+4dbe390 HEAD@{16}: commit: this is a working directory
+fc93cb8 HEAD@{17}: checkout: moving from hello_change to main
+f647a30 HEAD@{18}: commit: Update new one
+fc93cb8 HEAD@{19}: Branch: renamed refs/heads/_2 to refs/heads/hello_change
+fc93cb8 HEAD@{21}: Branch: renamed refs/heads/hello_change to refs/heads/_2
+fc93cb8 HEAD@{23}: checkout: moving from main to hello_change
+fc93cb8 HEAD@{24}: merge hello_change: Fast-forward
+7bc26d7 HEAD@{25}: checkout: moving from hello_change to main
+fc93cb8 HEAD@{26}: commit: The banana.py is updated now check this out i used vs code editor
+7bc26d7 HEAD@{27}: checkout: moving from main to hello_change
+7bc26d7 HEAD@{28}: commit: Updated information
+4ceff61 HEAD@{29}: merge hello_change: Fast-forward
+269b8bd HEAD@{30}: checkout: moving from hello_change to main
+4ceff61 HEAD@{31}: checkout: moving from main to hello_change
+269b8bd HEAD@{32}: checkout: moving from hello_change to main
+4ceff61 HEAD@{33}: commit: Update banana.py
+2d23504 HEAD@{34}: commit: Added a new file called banan.py
+269b8bd HEAD@{35}: checkout: moving from main to hello_change
+269b8bd HEAD@{36}: clone: from https://github.com/papu602/hello.git
